@@ -30,7 +30,7 @@ const ceversion=7.5;
   strMyCheatTables='My Mod Tables';
   strSpeedHack='Speedmodifier';
 {$else}
-  strCheatEngine='Cheat Engine';
+  strCheatEngine='奇特暗金';
   strCheatTable='Cheat Table';
   strCheatTableLower='cheat table';
   strCheat='Cheat';
@@ -41,7 +41,7 @@ const ceversion=7.5;
 {$endif}
 
 resourcestring
-  cename = strCheatEngine+' 7.5';
+  cename = strCheatEngine+' 柒点伍';
   rsCheatEngine = strCheatEngine;
   rsPleaseWait = 'Please Wait!';
 
